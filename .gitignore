@@ -1,0 +1,10 @@
+content_data/
+style_data/
+experiment/
+big_dataset/
+experiment2/
+final_exp/
+trial/
+trial2/
+*.pth
+*.zip
