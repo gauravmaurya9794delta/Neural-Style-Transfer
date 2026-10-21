@@ -6,5 +6,5 @@ experiment2/
 final_exp/
 trial/
 trial2/
-*.pth
+# *.pth
 *.zip
